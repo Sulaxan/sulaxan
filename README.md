@@ -1,4 +1,10 @@
-### Hi there 👋
+### HEY 👋
+
+I code and do stuff (mostly in Rust these days), and dabble with stuff here and there
+
+---
+🎨 Check out my [Portfolio](https://www.sulaxan.com/)
+📌 Check out some of my projects below
 
 <!--
 **Sulaxan/sulaxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
